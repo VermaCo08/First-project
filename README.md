@@ -1,4 +1,4 @@
 # First-project
 This is my first Git Repository.
 <br>
-author- Harsh Verma
+Author- Harsh Verma
